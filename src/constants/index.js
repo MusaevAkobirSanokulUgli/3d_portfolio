@@ -372,26 +372,35 @@ const projects = [
     websitelink: "https://azoom-nextjs.vercel.app/"
   },
   {
-    name: "Trip Guide",
+    name: "Promptia",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "Discover & Share Ai Powered prompts. Promptia is an open-source AI prompting tool for modern world to discover, create and share creative prompts",
     tags: [
       {
         name: "nextjs",
         color: "blue-text-gradient"
       },
       {
-        name: "supabase",
+        name: "TS",
         color: "green-text-gradient"
       },
       {
         name: "css",
         color: "pink-text-gradient"
+      },
+      {
+        name: "TailwindCSS",
+        color: "orange-text-gradient"
+      },
+      {
+        name: "Js",
+        color: "green-text-gradient"
       }
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
-    websitelink: "./"
+    source_code_link:
+      "https://github.com/MusaevAkobirSanokulUgli/NextJs_Promptopia",
+    websitelink: "https://next-js-promptopia-blush.vercel.app/"
   }
 ];
 
