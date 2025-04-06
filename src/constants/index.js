@@ -437,7 +437,7 @@ const certificates = [
     ],
     image: resume,
     websitelink:
-      "https://drive.google.com/file/d/1Kp-vgSQC4uk_5GGRXxXKGAxd5Y66tpkq/view?usp=sharing"
+      "https://drive.google.com/file/d/1ztcwrS3P-6nq8cGBO2fA593zIYhOcik6/view?usp=drive_link"
   },
   {
     name: "Bachelor of Science Diploma",
