@@ -197,24 +197,11 @@ const experiences = [
     ]
   },
   {
-    title: "Part-time ASP.NET CORE Developer",
-    company_name: "F ONE SOFT",
-    icon: dotnetcore,
-    iconBg: "#383E56",
-    date: "Jan 2023 - May 2023",
-    points: [
-      "Developing and maintaining web applications using ASP.NET/ Core ,MVC, Razor Pages, Entity Framework, Docker, Jenkins, PostgreSql, Telerik, ext.net, Kubernetes, RabbitMQ,CI/CD, Microservice Architecture and other related technologies.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Implementing responsive design and ensuring cross-browser compatibility.",
-      "Participating in code reviews and providing constructive feedback to other developers."
-    ]
-  },
-  {
     title: "Part-time Backend Developer",
     company_name: "Kobotis",
     icon: dotnetcore,
     iconBg: "#383E56",
-    date: "May 2023 - Sep 2023",
+    date: "Jan 2023 - Sep 2023",
     points: [
       "Developing and maintaining web applications using ASP.NET/ Core, NextJS, Entity Framework, Docker, PostgreSql,MongoDb, Kubernetes, RabbitMQ,CI/CD, Microservice Architecture and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -294,7 +281,7 @@ const projects = [
   {
     name: "Horizon_Banking",
     description:
-      "Web-based banking platform that allows users to receive and transfer money from one to another bank account safely. One interesesting fact about the project is that when user creates an account they shoud add abbreviation of state in US where they live in.",
+      "Web-based banking platform that allows users to receive and transfer money from one to another bank account safely. One interesting fact about the project is that when user creates an account they should add abbreviation of state in US where they live in.",
     tags: [
       {
         name: "nextjs",
@@ -313,7 +300,7 @@ const projects = [
         color: "orange-text-gradient"
       },
       {
-        name: "oz",
+        name: "zod",
         color: "blue-text-gradient"
       },
       {
@@ -437,7 +424,7 @@ const certificates = [
     ],
     image: resume,
     websitelink:
-      "https://drive.google.com/file/d/1ztcwrS3P-6nq8cGBO2fA593zIYhOcik6/view?usp=drive_link"
+      "https://drive.google.com/file/d/1Mb3SUuiEQLP8hXb_wQrclBKP_T0dIoof/view?usp=drive_link"
   },
   {
     name: "Bachelor of Science Diploma",
