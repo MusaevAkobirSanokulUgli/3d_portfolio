@@ -147,7 +147,7 @@ const educations = [
     university_name: "YEUNGNAM UNIVERSITY",
     icon: yeungnamlogo,
     iconBg: "#E6DEDD",
-    date: "Sep 2022 - Present",
+    date: "Sep 2022 - Aug 2025",
     points: [
       "At the university I did experiments on Machine Learning and Deep Learning models using PyTorch, TensorFlow and other related technologies.",
       "Collaborating with labarotory members, reading scientific papers and new technologies, and doing disscussion and experiments together",
