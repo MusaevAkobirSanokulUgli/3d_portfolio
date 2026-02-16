@@ -21,14 +21,17 @@ const Hero = () => {
           />
         </div>
         <div>
-          <h1 className={`${styles.heroHeadText} text-white`}>
+          <h2 className={`${styles.heroHeadText} text-white`}>
             Hi, I'm <span className="text-[#915eff]">Akobir</span>
-          </h1>
+          </h2>
           <p className={`${styles.heroSubText} mt-2 text-white-100`}>
             I am Senior AI & Software Engineer.
             <br className="sm:block-hidden" />
-            Applying Intelligent Systems, Digital Twin, LLM/DL | Computer Vision
-            | Industry 4.0 Solution, AI Agents|RAG in real life projects.
+            Applying Intelligent Systems, Digital Twin,
+            <br className="sm:block-hidden" />
+            LLM/DL | Computer Vision | Industry 4.0 Solution,
+            <br className="sm:block-hidden" />
+            AI Agents|RAG in real life projects.
           </p>
         </div>
       </div>
