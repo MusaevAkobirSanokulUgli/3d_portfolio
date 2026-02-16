@@ -35,6 +35,7 @@ import yeungnamlogo from "./company/yeungnamlogo.png";
 import westminsterlogo from "./company/westminsterlogo.png";
 import dotnetcore from "./company/dotnetcore.png";
 import unity from "./company/unity.png";
+import automation from "./company/3dautomation.png";
 //
 import ieee from "./ieee.png";
 import carrent from "./carrent.png";
@@ -89,6 +90,7 @@ export {
   westminsterlogo,
   dotnetcore,
   unity,
+  automation,
 
   //Public layer
   carrent,

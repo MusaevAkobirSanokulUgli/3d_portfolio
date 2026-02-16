@@ -25,6 +25,7 @@ import {
   westminsterlogo,
   dotnetcore,
   unity,
+  automation,
 
   //Public layer
   carrent,
@@ -159,14 +160,27 @@ const educations = [
 
 const experiences = [
   {
-    title: "Unity Developer",
+    title: "Senior AI & Software Engineer",
+    company_name: "3D Automation Co Ltd",
+    icon: automation,
+    iconBg: "#E6DEDD",
+    date: "November 2025 - Now",
+    points: [
+      "Highly versatile Senior Full-Stack Developer and AI Engineer with strong expertise in building secure backend systems, frontend interfaces, and data-driven applications.",
+      "Digital Platform and Digital Twin initiatives, integrating Ai Agents + RAG and AI/ML models, robotics data pipelines, and scalable cloud-based services.",
+      "Additionally responsible for Google Workspace Administration and company-wide IT security monitoring.",
+      "Manages hardware/software assets through a structured Asset Management System, ensuring operational efficiency, compliance, and security across the entire organization."
+    ]
+  },
+  {
+    title: "Unity Developer & Full Stack Web Developer",
     company_name: "Fiver,Upwork,Freelancer.com",
     icon: unity,
     iconBg: "#E6DEDD",
-    date: "March 2020 - April 2021",
+    date: "October 2020 - October 2025",
     points: [
       "Developing and maintaining applications using Unity and other related technologies.",
-      "And using ASP.NET CORE for some part of the projects.",
+      "And using ASP.NET CORE, NextJS, React for some part of the projects.",
       "Implementing responsive design and ensuring compatibility.",
       "Participating in code reviews and getting constructive feedback from other senior developers."
     ]
