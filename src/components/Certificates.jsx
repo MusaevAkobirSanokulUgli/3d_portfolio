@@ -10,7 +10,7 @@ const CertificateCard = ({
   description,
   tags,
   image,
-  websitelink, // This will now be used as the PDF download link
+  websitelink // This will now be used as the PDF download link
 }) => {
   return (
     <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>

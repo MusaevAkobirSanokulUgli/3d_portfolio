@@ -36,11 +36,20 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I'm a skilled and passionate software develper with a strong background
-        in C#, TypeScript and JavaScript, and good experience in frameworks like
-        ASP.NET Core, NextJS and React. I'm a quick learner and collaborate
-        closely with team members to achieve project goals and solve real-world
-        problems. Let's work together to build something great!
+        Senior AI & Software Engineer specializing in Intelligent Systems,
+        Digital Twin technologies, and LLM/RAG-driven architectures. Holding a
+        Master of Science in Computer Engineering, I design and develop secure,
+        scalable full-stack systems integrated with advanced AI models. My
+        expertise spans backend architecture, modern frontend development,
+        cloud-based infrastructure, and AI/ML system integration. I build
+        Industry 4.0 solutions that bridge physical industrial environments with
+        intelligent digital platforms. My work includes integrating robotics and
+        PLC data into real-time visualization systems, developing AI agents
+        using LLaMA + RAG pipelines, and implementing anomaly detection and
+        predictive intelligence frameworks. With strong foundations in Computer
+        Vision, Large Language Models, system security, and IT infrastructure, I
+        focus on delivering robust and scalable intelligent ecosystems that
+        optimize operations and accelerate digital transformation.
       </motion.p>
       <div className="mt-20 flex flex-wrap gap-10">
         {services.map((service, index) => (
