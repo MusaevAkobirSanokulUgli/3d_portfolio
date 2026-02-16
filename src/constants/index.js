@@ -32,6 +32,8 @@ import {
   jobit,
   tripguide,
   ieee,
+  digitaltwin,
+  aiagent,
   //Certificate Logos
   westminster,
   wimbledon,
@@ -256,6 +258,98 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+    name: "3DRemote",
+    description:
+      "Enterprise-grade Digital Twin platform developed at 3DAutomation Co Ltd. 3DRemote enables real-time monitoring and control of factory environments through Unity WebGL visualization integrated with SQL Server and ASP.NET MVC backend services. The system incorporates AI agents powered by SLM/LLaMA with Retrieval-Augmented Generation (RAG) to enhance operational decision-making, predictive analysis, and contextual factory data interpretation.",
+    tags: [
+      {
+        name: "SQL Server",
+        color: "blue-text-gradient"
+      },
+      {
+        name: "MSSQL",
+        color: "green-text-gradient"
+      },
+      {
+        name: "ASP.NET MVC",
+        color: "pink-text-gradient"
+      },
+      {
+        name: "C#",
+        color: "orange-text-gradient"
+      },
+      {
+        name: "Unity WebGL",
+        color: "blue-text-gradient"
+      },
+      {
+        name: "REST API",
+        color: "green-text-gradient"
+      },
+      {
+        name: "SLM",
+        color: "pink-text-gradient"
+      },
+      {
+        name: "LLaMA",
+        color: "orange-text-gradient"
+      },
+      {
+        name: "RAG",
+        color: "blue-text-gradient"
+      },
+      {
+        name: "Artificial Intelligence",
+        color: "green-text-gradient"
+      }
+    ],
+    image: digitaltwin,
+    source_code_link: "http://3dremote.kr/",
+    websitelink: "http://3dremote.kr/"
+  },
+  {
+    name: "Apollo",
+    description:
+      "Apollo is an AI-powered industrial agent designed to analyze PLC data streams and factory machine activities for anomaly detection and operational intelligence. Built using LLaMA integrated with Retrieval-Augmented Generation (RAG), Apollo provides contextual diagnostics, failure analysis, and real-time insights. The system is fully integrated with the 3DRemote Digital Twin platform, enabling AI-driven factory monitoring and intelligent alert generation.",
+    tags: [
+      {
+        name: "Artificial Intelligence",
+        color: "blue-text-gradient"
+      },
+      {
+        name: "LLM",
+        color: "green-text-gradient"
+      },
+      {
+        name: "LLaMA",
+        color: "pink-text-gradient"
+      },
+      {
+        name: "RAG",
+        color: "orange-text-gradient"
+      },
+      {
+        name: "Python",
+        color: "blue-text-gradient"
+      },
+      {
+        name: "LLMOps",
+        color: "green-text-gradient"
+      },
+      {
+        name: "Anomaly Detection",
+        color: "pink-text-gradient"
+      },
+      {
+        name: "Industrial AI",
+        color: "orange-text-gradient"
+      }
+    ],
+    image: aiagent,
+    source_code_link: "http://3dremote.kr/",
+    websitelink: "http://3dremote.kr/"
+  },
   {
     name: "Reseach Paper in IEEE Access",
     description:

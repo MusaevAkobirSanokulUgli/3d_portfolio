@@ -37,6 +37,8 @@ import dotnetcore from "./company/dotnetcore.png";
 import unity from "./company/unity.png";
 import automation from "./company/3dautomation.png";
 //
+import digitaltwin from "./digitaltwin.png";
+import aiagent from "./aiagent.png";
 import ieee from "./ieee.png";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -98,6 +100,8 @@ export {
   tripguide,
   user,
   ieee,
+  digitaltwin,
+  aiagent,
   //Certificate Logos
   westminster,
   wimbledon,
