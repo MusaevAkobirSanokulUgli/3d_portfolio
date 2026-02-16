@@ -133,19 +133,6 @@ const technologies = [
 
 const educations = [
   {
-    title: "Bachelor of Science",
-    university_name: "UNIVERSITY OF WESTMINSTER",
-    icon: westminsterlogo,
-    iconBg: "#E6DEDD",
-    date: "Sep 2016 - June 2020",
-    points: [
-      "At the University of Westminster, I studied in the faculty of Business Information Systems.",
-      "Collaborating with students, doing team projects, and improving time managements skill",
-      "Participating coding challenges at the university and learning about Algorithms, Data Structures and OOP",
-      "Coding practice by solving 'HackerRank' and 'LeetCode' coding problems"
-    ]
-  },
-  {
     title: "Masters in Coputer Egineering",
     university_name: "YEUNGNAM UNIVERSITY",
     icon: yeungnamlogo,
@@ -156,6 +143,19 @@ const educations = [
       "Collaborating with labarotory members, reading scientific papers and new technologies, and doing disscussion and experiments together",
       "Implementing new ideas that coming from scientific papers related to the use of Deep Learning and Machine Learning Models in Cyber Security (Malware Detection in TLS flow)",
       "Participating in labaratory projects and publishing my paper on IEEE Access journal."
+    ]
+  },
+  {
+    title: "Bachelor of Science",
+    university_name: "UNIVERSITY OF WESTMINSTER",
+    icon: westminsterlogo,
+    iconBg: "#E6DEDD",
+    date: "Sep 2016 - June 2020",
+    points: [
+      "At the University of Westminster, I studied in the faculty of Business Information Systems.",
+      "Collaborating with students, doing team projects, and improving time managements skill",
+      "Participating coding challenges at the university and learning about Algorithms, Data Structures and OOP",
+      "Coding practice by solving 'HackerRank' and 'LeetCode' coding problems"
     ]
   }
 ];
