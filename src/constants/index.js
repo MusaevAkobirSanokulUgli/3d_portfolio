@@ -71,7 +71,7 @@ const services = [
     icon: nextreacttech
   },
   {
-    title: "Asp.Net Core",
+    title: "Asp.Net Core /Unity Developer",
     icon: dotnetcoretech
   }
 ];
